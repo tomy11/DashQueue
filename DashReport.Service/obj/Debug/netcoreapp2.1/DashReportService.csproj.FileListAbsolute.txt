@@ -1,0 +1,14 @@
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\DashReportService.deps.json
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\DashReportService.dll
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\DashReportService.pdb
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\DashReportData.dll
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\DashReportData.pdb
+F:\Aspcore2019\DashReport\DashReport.Service\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.csprojAssemblyReference.cache
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.csproj.CoreCompileInputs.cache
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.AssemblyInfoInputs.cache
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.AssemblyInfo.cs
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.csproj.CopyComplete
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.dll
+F:\Aspcore2019\DashReport\DashReport.Service\obj\Debug\netcoreapp2.1\DashReportService.pdb

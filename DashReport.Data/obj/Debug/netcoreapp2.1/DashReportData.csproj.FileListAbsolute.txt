@@ -1,0 +1,9 @@
+F:\Aspcore2019\DashReport\DashReport.Data\bin\Debug\netcoreapp2.1\DashReportData.deps.json
+F:\Aspcore2019\DashReport\DashReport.Data\bin\Debug\netcoreapp2.1\DashReportData.dll
+F:\Aspcore2019\DashReport\DashReport.Data\bin\Debug\netcoreapp2.1\DashReportData.pdb
+F:\Aspcore2019\DashReport\DashReport.Data\obj\Debug\netcoreapp2.1\DashReportData.csprojAssemblyReference.cache
+F:\Aspcore2019\DashReport\DashReport.Data\obj\Debug\netcoreapp2.1\DashReportData.csproj.CoreCompileInputs.cache
+F:\Aspcore2019\DashReport\DashReport.Data\obj\Debug\netcoreapp2.1\DashReportData.AssemblyInfoInputs.cache
+F:\Aspcore2019\DashReport\DashReport.Data\obj\Debug\netcoreapp2.1\DashReportData.AssemblyInfo.cs
+F:\Aspcore2019\DashReport\DashReport.Data\obj\Debug\netcoreapp2.1\DashReportData.dll
+F:\Aspcore2019\DashReport\DashReport.Data\obj\Debug\netcoreapp2.1\DashReportData.pdb

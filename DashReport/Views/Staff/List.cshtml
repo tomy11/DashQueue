@@ -1,0 +1,43 @@
+﻿@model IEnumerable<DashReport.ViewModels.StaffViewModel>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h2>Staff List</h2>
+
+<p>
+    <a class="btn btn-success mt-5" style="margin: 10px" asp-controller="Staff" asp-action="AddPage">Create New</a>
+</p>
+<table class="table table-striped table-hover ">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>Name</th>
+            <th>Role</th>
+            <th>Status</th>
+            <th>Cwhen</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var staffVM in Model) {
+        <tr>
+            <td>-</td>
+            <td>@staffVM.Staff.username</td>
+            <td>@staffVM.Staff.password</td>
+            <td>@staffVM.Staff.name</td>
+            <td>@staffVM.Staff.role</td>
+            <td>@staffVM.Staff.status</td>
+            <td>@staffVM.Staff.cwhen</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=@staffVM.Staff.uid  }) |
+                @Html.ActionLink("Details", "Details", new { id=@staffVM.Staff.uid }) |
+                @Html.ActionLink("Delete", "Delete", new { id=@staffVM.Staff.uid })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
